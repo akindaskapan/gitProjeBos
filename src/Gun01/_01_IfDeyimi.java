@@ -6,6 +6,9 @@ public class _01_IfDeyimi {
 
         System.out.println("akın baba burada");
 
+        for (int i = 0; i < 9; i++) {
+            System.out.println("fenerbahçe şampiyon oldu");
+        }
 
 
     }
