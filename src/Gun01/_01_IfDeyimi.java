@@ -10,6 +10,8 @@ public class _01_IfDeyimi {
             System.out.println("fenerbahçe şampiyon oldu");
         }
 
+        System.out.println("hoca değişiklik");
+
 
     }
 }
