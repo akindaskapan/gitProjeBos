@@ -12,6 +12,8 @@ public class _01_IfDeyimi {
 
         System.out.println("hoca değişiklik");
 
+        System.out.print("hoca değişiklik 2");
+
 
     }
 }
