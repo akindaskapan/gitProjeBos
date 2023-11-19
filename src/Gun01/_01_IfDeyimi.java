@@ -30,6 +30,7 @@ public class _01_IfDeyimi {
 
         System.out.println("bir şeye bakacam");
 
+        System.out.println("birden fazla commit denemesi 1");
 
     }
 }
