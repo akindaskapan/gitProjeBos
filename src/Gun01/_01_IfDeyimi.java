@@ -16,6 +16,8 @@ public class _01_IfDeyimi {
 
         System.out.println("deneme");
 
+        System.out.println("deneme değişiklik en güncel gün yarın fenerin kadın futbol takımının maçı var.");
+
 
 
     }
