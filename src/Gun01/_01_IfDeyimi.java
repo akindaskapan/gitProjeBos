@@ -32,5 +32,9 @@ public class _01_IfDeyimi {
 
         System.out.println("birden fazla commit denemesi 1");
 
+        System.out.println("birden fazla commit denemesi 2");
+
+        System.out.println("commitler pushlandı.");
+
     }
 }
