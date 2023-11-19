@@ -1,5 +1,7 @@
 package Gun01;
 
+import java.util.Scanner;
+
 public class _01_IfDeyimi {
     public static void main(String[] args) {
         System.out.println("Merhaba Dünya");
@@ -18,6 +20,13 @@ public class _01_IfDeyimi {
 
         System.out.println("deneme değişiklik en güncel gün yarın fenerin kadın futbol takımının maçı var.");
 
+        Scanner oku=new Scanner(System.in);
+        System.out.print("Lütfen takım ismi giriniz = ");
+        String takim= oku.nextLine();
+
+        if (takim.equalsIgnoreCase("fener"))
+            System.out.println("en büyük ");
+        else System.out.println("fenerden başka takım giremezsin");
 
 
     }
