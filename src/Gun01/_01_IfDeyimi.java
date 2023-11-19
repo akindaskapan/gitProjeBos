@@ -37,6 +37,7 @@ public class _01_IfDeyimi {
         System.out.println("commitler pushlandı.");
 
         System.out.println("a");
+        System.out.println("b");
 
     }
 }
