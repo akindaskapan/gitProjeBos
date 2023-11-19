@@ -25,7 +25,7 @@ public class _01_IfDeyimi {
         String takim= oku.nextLine();
 
         if (takim.equalsIgnoreCase("fener"))
-            System.out.println("en büyük ");
+            System.out.println("en büyük "+ takim);
         else System.out.println("fenerden başka takım giremezsin");
 
         System.out.println("bir şeye bakacam");
@@ -39,6 +39,5 @@ public class _01_IfDeyimi {
         System.out.println("a");
         System.out.println("b");
         System.out.println("c");
-
     }
 }
