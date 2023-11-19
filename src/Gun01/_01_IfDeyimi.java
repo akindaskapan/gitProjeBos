@@ -28,6 +28,8 @@ public class _01_IfDeyimi {
             System.out.println("en büyük ");
         else System.out.println("fenerden başka takım giremezsin");
 
+        System.out.println("bir şeye bakacam");
+
 
     }
 }
